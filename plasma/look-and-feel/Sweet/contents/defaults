@@ -17,5 +17,5 @@ name=Sweet
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Sweet-transparent
 
-[KSplash]
+[ksplashrc][KSplash]
 Theme=Sweet
